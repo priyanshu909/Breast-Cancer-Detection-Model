@@ -37,6 +37,9 @@ Fractal dimension
  
 CONCLUSION
 
+![image](https://user-images.githubusercontent.com/109714752/188306195-ca65a2f2-f6cc-439b-b0aa-50de6083d22a.png)
+
+
 |   S.No. │ Classification Model      │   Model Accuracy │   Validation Accuracy │   Standard Deviation │
 ╞═════════╪═══════════════════════════╪══════════════════╪═══════════════════════╪══════════════════════╡
 │       1 │ Logistic Regression       │            97.37 │               96.5111 │              5.5556  │
